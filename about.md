@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### About Ben
+I started playing the bass when I was 18 years old. I wanted to play drums in the high school jazz band, but there were too many drummers and zero bassists. I took home the school electric bass for the summer and I have not looked back since. I have professionaly worked in Washington D.C., San Francisco, San Diego, and many other places in between. You can currently catch me at local venues in sunny San Diego most often.

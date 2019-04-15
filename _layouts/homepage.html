@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body>
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="homepage-wrapper">
+          <div class="ben-image">
+             <img src="{{ "/assets/darkbassben.jpg" | relative_url }}" />
+          </div>
+          <div class="gigs-list">
+            {%- for gig in page.gigs -%}
+              <div class="gig-listing">
+                <div class="gig-row">
+                  <div class="gig-date">
+                    {{gig.date}}
+                  </div>
+                  <div class="gig-time">
+                    {{gig.time}}
+                  </div>
+                  <div class="gig-location">
+                    <a target="_blank" href="{{ gig.location_link }}">
+                      {{ gig.location }}
+                    </a>
+                  </div>
+                </div>
+                <div class="gig-row">
+                  <div class="gig-description">
+                    {{gig.description}}
+                  </div>
+                </div>
+              </div>
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Blog
+layout: blog_home
 permalink: /blog/
-layout: home
 ---
