@@ -1,0 +1,84 @@
+/* GLOBAL */
+.page-content {
+  flex: none !important; /* we are using grid to handle general layout */
+}
+
+.page-content .wrapper {
+  max-width: 90%;
+}
+
+.site-header .wrapper {
+  max-width: 85%;
+}
+
+hr {
+  margin: 1.5em 0;
+  border-top: 1px;
+}
+
+/* HOMEPAGE ONLY */
+.homepage-wrapper {
+  display: grid;
+  grid-template-columns: 1.5fr 2fr;
+  grid-auto-rows: minmax(200px, auto);
+}
+
+.homepage-wrapper div {
+}
+
+.homepage-wrapper .ben-image {
+  margin-right: 1rem;
+}
+
+.homepage-wrapper .ben-image img {
+  width: 100%;
+}
+
+.gig-listing {
+  border-bottom: 1px dashed lightgrey;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+.gig-row {
+  display: flex;
+  padding-top: 5px;
+  flex: 1 1 auto;
+}
+
+.gig-time, .gig-description {
+  font-weight: 300;
+}
+
+.gig-description {
+  font-size: 0.94em
+}
+
+.gig-time, .gig-date {
+  font-style: italic;
+}
+
+.gig-date {
+  font-weight: 400;
+  margin-right: .5rem;
+}
+
+.gig-time {
+  margin-right: 1.5rem;
+}
+
+.gig-location a {
+  font-weight: 100;
+  text-decoration: none;
+}
+
+.u-email {
+  text-decoration: none;
+  color: #458;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.u-email:hover {
+  text-decoration: none;
+}
