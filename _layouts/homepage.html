@@ -14,11 +14,9 @@
             {%- for gig in page.gigs -%}
               <div class="gig-listing">
                 <div class="gig-row">
-                  <div class="gig-date">
-                    {{gig.date}}
-                  </div>
                   <div class="gig-time">
-                    {{gig.time}}
+                    <span class="date">{{gig.date}}</span>
+                    <span class="time">{{gig.time}}</span>
                   </div>
                   <div class="gig-location">
                     <a target="_blank" href="{{ gig.location_link }}">
