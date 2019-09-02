@@ -4,19 +4,13 @@
 layout: homepage
 gigs:
   -
-    date: '8.27.2019'
+    date: '9.01.2019'
     time: '6 to 10pm'
-    location: "Eddie V's (La Jolla)"
-    location_link: 'https://goo.gl/maps/gQaNzqwtyev21upT8'
+    location: "Eddie V's (Downtown)"
+    location_link: 'https://goo.gl/maps/rxydgyeYNZtRXMMh6'
     description: 'Mikan Zlatkovich Trio'
   -
-    date: '8.29.2019'
-    time: '8 to 11pm'
-    location: "Blind Lady Ale House"
-    location_link: "https://goo.gl/maps/RSdHDQ2hYGctGDNPA"
-    description: "BLAH Jazz Jam Session - Robert Dove Group"
-  -
-    date: '8.31.2019'
+    date: '9.28.2019'
     time: '8 to 11pm'
     location: "Westgate Hotel"
     location_link: "https://goo.gl/maps/aprv5q6LcivZDsEA7"
