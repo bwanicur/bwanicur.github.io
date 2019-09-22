@@ -39,7 +39,4 @@ gigs:
     location: "Bella Vista Social Club and Cafe"
     location_link: "https://goo.gl/maps/4sXJcfc9fmvyQV1L7"
     description: "Dennis Gittens Trio (DG3)"
-
-
-https://goo.gl/maps/Ctaw3vemQC23N77M9
 ---
