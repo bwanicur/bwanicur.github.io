@@ -4,17 +4,29 @@
 layout: homepage
 gigs:
   -
-    date: '9.12.2019'
-    time: '8 to 11pm'
-    location: "Cloak and Petal (Little Italy)"
-    location_link: 'https://g.page/CloakAndPetal-little-italy?share'
-    description: 'Lorraine Castellanos Quartet'
+    date: "9.22.2019"
+    time: '6 to 9pm'
+    location: "Manhattan Restaurant (La Jolla)"
+    location_link: 'https://goo.gl/maps/Ctaw3vemQC23N77M9'
+    description: 'Mikan Zlatkovich Trio'
   -
-    date: '9.20.2019'
-    time: '8 to 11pm'
-    location: "Westgate Hotel - Plaza Bar (Downtown)"
-    location_link: "https://goo.gl/maps/aprv5q6LcivZDsEA7"
-    description: "Gilbert Castellanos Trio"
+    date: "9.24.2019"
+    time: '6 to 10pm'
+    location: "Eddie V's (La Jolla)"
+    location_link: 'https://goo.gl/maps/gQaNzqwtyev21upT8'
+    description: 'Mikan Zlatkovich Trio'
+  -
+    date: '9.25.20190'
+    time: '5:30 to 5:30pm'
+    location: "Wonderland (Ocean Beach)"
+    location_link: 'https://goo.gl/maps/vmf4DpP8cC7cYxTL6'
+    description: 'Lorraine Castellanos Trio'
+  -
+    date: '9.26.20190'
+    time: '7 to 9pm'
+    location: "Mira Costa College"
+    location_link: 'https://www.facebook.com/events/687813771735015/'
+    description: 'Matt Flalker Group'
   -
     date: '9.28.2019'
     time: '8 to 11pm'
@@ -27,4 +39,7 @@ gigs:
     location: "Bella Vista Social Club and Cafe"
     location_link: "https://goo.gl/maps/4sXJcfc9fmvyQV1L7"
     description: "Dennis Gittens Trio (DG3)"
+
+
+https://goo.gl/maps/Ctaw3vemQC23N77M9
 ---
