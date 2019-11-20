@@ -21,4 +21,4 @@ gigs:
     location: "Handlery Hotel"
     location_link: "https://goo.gl/maps/R9qgVfu3Mfp2ddta6"
     description: "Mikan Zlackovich Trio (with Duncan Moore drums)"
- ---
+---
