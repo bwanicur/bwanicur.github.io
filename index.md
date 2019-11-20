@@ -4,21 +4,21 @@
 layout: homepage
 gigs:
   -
-    date: '9.28.2019'
-    time: '8 to 11pm'
-    location: "Westgate Hotel - Plaza Bar (Downtown)"
-    location_link: "https://goo.gl/maps/aprv5q6LcivZDsEA7"
-    description: "Steff Johnson Trio"
+    date: '11.23.2019'
+    time: '8 to 10pm'
+    location: "Royter's Kitchen"
+    location_link: 'https://www.facebook.com/events/555247351924587/'
+    description: 'Mikan Zlatkovich Trio'
   -
-    date: '9.30.2019'
-    time: '6 to 10pm'
+    date: '11.28.2019'
+    time: '4 to 8pm'
     location: "Eddie V's (Downtown)"
     location_link: 'https://goo.gl/maps/rxydgyeYNZtRXMMh6'
     description: 'Mikan Zlatkovich Trio'
   -
-    date: '10.17.2019'
-    time: '5:30 to 7:30pm'
-    location: "Bella Vista Social Club and Cafe"
-    location_link: "https://goo.gl/maps/4sXJcfc9fmvyQV1L7"
-    description: "Dennis Gittens Trio (DG3)"
----
+    date: '12.08.2016'
+    time: '4:30 to 6:30pm'
+    location: "Handlery Hotel"
+    location_link: "https://goo.gl/maps/R9qgVfu3Mfp2ddta6"
+    description: "Mikan Zlackovich Trio (with Duncan Moore drums)"
+ ---
