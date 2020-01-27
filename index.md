@@ -4,21 +4,21 @@
 layout: homepage
 gigs:
   -
-    date: '11.23.2019'
-    time: '8 to 10pm'
-    location: "Royter's Kitchen"
-    location_link: 'https://www.facebook.com/events/555247351924587/'
-    description: 'Mikan Zlatkovich Trio'
-  -
-    date: '11.28.2019'
-    time: '4 to 8pm'
-    location: "Eddie V's (Downtown)"
+    date: '1.27.2020'
+    time: '6 to 10pm'
+    location: "Eddie V's Downtown"
     location_link: 'https://goo.gl/maps/rxydgyeYNZtRXMMh6'
     description: 'Mikan Zlatkovich Trio'
   -
-    date: '12.08.2016'
-    time: '4:30 to 6:30pm'
-    location: "Handlery Hotel"
-    location_link: "https://goo.gl/maps/R9qgVfu3Mfp2ddta6"
-    description: "Mikan Zlackovich Trio (with Duncan Moore drums)"
+    date: '1.28.2020'
+    time: '6 to 10pm'
+    location: "Eddie V's (La Jolla)"
+    location_link: 'https://goo.gl/maps/eLWWw5AB3gsDrUnn7' 
+    description: 'Mikan Zlatkovich Trio'
+  -
+    date: '1.29.2020'
+    time: '6 to 9pm'
+    location: "Kettner Exchange"
+    location_link: "https://goo.gl/maps/7x1JDrDh1z5NZnZLA"
+    description: "Erika Davies Trio"
 ---
