@@ -11,6 +11,10 @@
   max-width: 85%;
 }
 
+.site-header span.info-value {
+  color: #9e9d9d;
+}
+
 hr {
   margin: 1.5em 0;
   border-top: 1px;

@@ -4,6 +4,9 @@
 layout: homepage
 gigs:
   -
+    date: 'Please support live music!'
+    description: 'Venmo: @benjamin-wanicur | Paypal: bwanicur@gmail.com'
+  -
     date: '10.16.2020'
     time: '5 to 7:30pm'
     location: "Rob Field Park (2525 Bacon St, San Diego, CA 92107-1306, United States)"
