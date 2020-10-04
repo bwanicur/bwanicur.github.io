@@ -7,6 +7,9 @@ gigs:
     date: 'Please support live music!'
     description: 'Venmo: @benjamin-wanicur | Paypal: bwanicur@gmail.com'
   -
+    date: 'Check out this new single!'
+    description: '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1421296175/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://benwanicur.bandcamp.com/track/in-the-stillness-of-the-evening">In The Stillness of the Evening by Ben Wanicur</a></iframe>'
+  -
     date: '10.16.2020'
     time: '5 to 7:30pm'
     location: "Rob Field Park (2525 Bacon St, San Diego, CA 92107-1306, United States)"
