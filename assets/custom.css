@@ -1,4 +1,13 @@
 /* GLOBAL */
+@media screen and (max-width: 480px) {
+  .hide-from-mobile {
+    display: none;
+  }
+  .homepage-wrapper {
+    display: block !important;
+  }
+}
+
 .page-content {
   flex: none !important; /* we are using grid to handle general layout */
 }
@@ -88,4 +97,10 @@ hr {
 
 .u-email:hover {
   text-decoration: none;
+}
+
+.about-ben-img {
+  margin-right: 1.0rem;
+  margin-bottom: 1.0rem;
+  float: left;
 }
